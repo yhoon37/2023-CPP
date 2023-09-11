@@ -1,0 +1,164 @@
+2023-04-28T19:19:35.452+09:00,user,KeyEvent,65535:38:0,matrix,Popup,C:/Users/user/CLionProjects/matrix/Matrix.h,,13,2,Changes
+2023-04-28T19:19:37.335+09:00,user,KeyEvent,27:27:0,,,,,-1,-1,
+2023-04-28T19:19:37.673+09:00,user,KeyEvent,65535:38:0,matrix,Popup,C:/Users/user/CLionProjects/matrix/Matrix.h,,13,2,Changes
+2023-04-28T19:19:38.061+09:00,user,KeyEvent,10:10:0,matrix,Popup,C:/Users/user/CLionProjects/matrix/Matrix.h,,13,2,Changes
+2023-04-28T19:19:38.456+09:00,user,KeyEvent,65535:38:0,matrix,Popup,C:/Users/user/CLionProjects/matrix/Matrix.h,,13,2,Changes
+2023-04-28T19:19:39.000+09:00,user,Action,Clear Tracking Log,,,,,-1,-1,
+2023-04-28T19:19:39.535+09:00,user,KeyEvent,10:10:0,matrix,Popup,C:/Users/user/CLionProjects/matrix/Matrix.h,,13,2,Changes
+2023-04-28T19:19:39.544+09:00,user,KeyEvent,10:10:0,matrix,Popup,C:/Users/user/CLionProjects/matrix/Matrix.h,,13,2,Changes
+2023-04-28T19:26:03.744+09:00,user,KeyEvent,65535:17:2,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,19,1,Changes
+2023-04-28T19:26:03.817+09:00,user,Action,$SelectAll,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,19,1,Changes
+2023-04-28T19:26:03.824+09:00,user,KeyEvent,1:65:2,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,19,1,Changes
+2023-04-28T19:26:03.961+09:00,user,KeyEvent,65535:17:2,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,19,1,Changes
+2023-04-28T19:26:04.063+09:00,user,Action,EditorPaste,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,19,1,Changes
+2023-04-28T19:26:04.426+09:00,user,KeyEvent,22:86:2,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:11.241+09:00,user,Action,CPP.NewHeaderFile,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:12.388+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:12.474+09:00,user,KeyEvent,83:83:1,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:12.641+09:00,user,KeyEvent,116:84:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:12.787+09:00,user,KeyEvent,114:82:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:12.887+09:00,user,KeyEvent,105:73:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:12.962+09:00,user,KeyEvent,110:78:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:13.005+09:00,user,KeyEvent,103:71:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:13.824+09:00,user,KeyEvent,10:10:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:26:17.035+09:00,user,Action,EditorBackSpace,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,0,0,Changes
+2023-04-28T19:26:17.043+09:00,user,KeyEvent,8:8:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,0,0,Changes
+2023-04-28T19:26:17.272+09:00,user,Action,EditorDown,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,0,0,Changes
+2023-04-28T19:26:17.284+09:00,user,KeyEvent,65535:40:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,1,0,Changes
+2023-04-28T19:26:17.600+09:00,user,Action,EditorBackSpace,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,1,0,Changes
+2023-04-28T19:26:17.675+09:00,user,KeyEvent,8:8:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,0,0,Changes
+2023-04-28T19:26:17.878+09:00,user,Action,EditorDown,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,0,0,Changes
+2023-04-28T19:26:17.886+09:00,user,KeyEvent,65535:40:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,1,0,Changes
+2023-04-28T19:26:17.978+09:00,user,Action,EditorDown,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,1,0,Changes
+2023-04-28T19:26:17.980+09:00,user,KeyEvent,65535:40:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,2,0,Changes
+2023-04-28T19:26:18.638+09:00,user,Action,EditorEnter,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,2,0,Changes
+2023-04-28T19:26:18.692+09:00,user,KeyEvent,10:10:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,3,0,Changes
+2023-04-28T19:26:18.774+09:00,user,Action,EditorEnter,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,3,0,Changes
+2023-04-28T19:26:18.784+09:00,user,KeyEvent,10:10:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,4,0,Changes
+2023-04-28T19:26:19.270+09:00,user,Action,EditorUp,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,4,0,Changes
+2023-04-28T19:26:19.271+09:00,user,KeyEvent,65535:38:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/String.h,,3,0,Changes
+2023-04-28T19:29:53.152+09:00,user,KeyEvent,65535:17:2,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,17,Changes
+2023-04-28T19:29:53.218+09:00,user,Action,EditorPaste,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,17,Changes
+2023-04-28T19:29:53.308+09:00,user,KeyEvent,22:86:2,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,25,Changes
+2023-04-28T19:29:54.874+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,25,Changes
+2023-04-28T19:29:55.058+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,26,Changes
+2023-04-28T19:29:55.059+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,25,Changes
+2023-04-28T19:29:55.272+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,25,Changes
+2023-04-28T19:29:55.277+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,24,Changes
+2023-04-28T19:29:55.442+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,24,Changes
+2023-04-28T19:29:55.444+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,23,Changes
+2023-04-28T19:29:55.630+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,23,Changes
+2023-04-28T19:29:55.635+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,22,Changes
+2023-04-28T19:29:55.796+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,22,Changes
+2023-04-28T19:29:55.798+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,21,Changes
+2023-04-28T19:29:56.050+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,21,Changes
+2023-04-28T19:29:56.055+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,20,Changes
+2023-04-28T19:29:56.354+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,20,Changes
+2023-04-28T19:29:56.359+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,19,Changes
+2023-04-28T19:29:56.570+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,19,Changes
+2023-04-28T19:29:56.571+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:29:57.019+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:29:57.022+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,17,Changes
+2023-04-28T19:29:57.219+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,17,Changes
+2023-04-28T19:30:03.259+09:00,user,Action,Run,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:30:09.441+09:00,user,Action,EditorLeft,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,33,Changes
+2023-04-28T19:30:09.445+09:00,user,KeyEvent,65535:37:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,32,Changes
+2023-04-28T19:30:09.782+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,32,Changes
+2023-04-28T19:30:11.159+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,33,Changes
+2023-04-28T19:30:11.349+09:00,user,KeyEvent,83:83:1,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,33,Changes
+2023-04-28T19:30:12.027+09:00,user,KeyEvent,116:84:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,34,Changes
+2023-04-28T19:30:12.342+09:00,user,KeyEvent,114:82:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,35,Changes
+2023-04-28T19:30:12.475+09:00,user,KeyEvent,105:73:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,36,Changes
+2023-04-28T19:30:12.568+09:00,user,KeyEvent,110:78:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,37,Changes
+2023-04-28T19:30:12.716+09:00,user,KeyEvent,103:71:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,38,Changes
+2023-04-28T19:30:13.075+09:00,user,KeyEvent,46:46:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,39,Changes
+2023-04-28T19:30:13.329+09:00,user,KeyEvent,99:67:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,40,Changes
+2023-04-28T19:30:13.490+09:00,user,KeyEvent,112:80:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,41,Changes
+2023-04-28T19:30:13.660+09:00,user,KeyEvent,112:80:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,42,Changes
+2023-04-28T19:30:14.266+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,43,Changes
+2023-04-28T19:30:14.658+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,44,Changes
+2023-04-28T19:30:14.804+09:00,user,KeyEvent,83:83:1,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,44,Changes
+2023-04-28T19:30:15.102+09:00,user,KeyEvent,116:84:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,45,Changes
+2023-04-28T19:30:15.311+09:00,user,KeyEvent,114:82:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,46,Changes
+2023-04-28T19:30:15.412+09:00,user,KeyEvent,105:73:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,47,Changes
+2023-04-28T19:30:15.478+09:00,user,KeyEvent,110:78:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,48,Changes
+2023-04-28T19:30:15.578+09:00,user,KeyEvent,103:71:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,49,Changes
+2023-04-28T19:30:15.997+09:00,user,KeyEvent,46:46:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,50,Changes
+2023-04-28T19:30:16.148+09:00,user,KeyEvent,104:72:0,untitled,Editor,C:/Users/user/CLionProjects/untitled/CMakeLists.txt,,5,51,Changes
+2023-04-28T19:30:20.040+09:00,user,Action,Run,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:30:22.041+09:00,user,Execution,Run:'CMake Application: untitled':C:\Users\user\CLionProjects\untitled\cmake-build-debug\untitled.exe,untitled,Editor,C:/Users/user/CLionProjects/untitled/main.cpp,,7,1,Changes
+2023-04-28T19:30:43.355+09:00,user,Action,EditorEnter,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,28,Changes
+2023-04-28T19:30:43.374+09:00,user,KeyEvent,10:10:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,4,Changes
+2023-04-28T19:30:44.916+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,4,Changes
+2023-04-28T19:30:44.924+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,5,Changes
+2023-04-28T19:30:45.066+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,5,Changes
+2023-04-28T19:30:45.069+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,6,Changes
+2023-04-28T19:30:45.564+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,6,Changes
+2023-04-28T19:30:45.568+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,7,Changes
+2023-04-28T19:30:45.594+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,7,Changes
+2023-04-28T19:30:45.599+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,8,Changes
+2023-04-28T19:30:45.620+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,8,Changes
+2023-04-28T19:30:45.623+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,9,Changes
+2023-04-28T19:30:45.651+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,9,Changes
+2023-04-28T19:30:45.653+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,10,Changes
+2023-04-28T19:30:45.917+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,10,Changes
+2023-04-28T19:30:45.921+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,11,Changes
+2023-04-28T19:30:46.058+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,11,Changes
+2023-04-28T19:30:46.062+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,12,Changes
+2023-04-28T19:30:46.213+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,12,Changes
+2023-04-28T19:30:46.218+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,13,Changes
+2023-04-28T19:30:46.355+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,13,Changes
+2023-04-28T19:30:46.358+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,14,Changes
+2023-04-28T19:30:46.507+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,14,Changes
+2023-04-28T19:30:46.512+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,15,Changes
+2023-04-28T19:30:46.968+09:00,user,Action,EditorEnter,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,15,Changes
+2023-04-28T19:30:46.984+09:00,user,KeyEvent,10:10:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,43,0,Changes
+2023-04-28T19:30:47.384+09:00,user,Action,EditorUp,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,43,0,Changes
+2023-04-28T19:30:47.387+09:00,user,KeyEvent,65535:38:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,0,Changes
+2023-04-28T19:30:49.736+09:00,user,Action,EditorEnter,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,28,Changes
+2023-04-28T19:30:49.749+09:00,user,KeyEvent,10:10:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,4,Changes
+2023-04-28T19:30:50.041+09:00,user,KeyEvent,99:67:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,4,Changes
+2023-04-28T19:30:50.162+09:00,user,KeyEvent,111:79:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,5,Changes
+2023-04-28T19:30:50.283+09:00,user,KeyEvent,117:85:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,6,Changes
+2023-04-28T19:30:50.388+09:00,user,KeyEvent,116:84:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,7,Changes
+2023-04-28T19:30:50.617+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,8,Changes
+2023-04-28T19:30:51.104+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,9,Changes
+2023-04-28T19:30:51.240+09:00,user,KeyEvent,60:44:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,9,Changes
+2023-04-28T19:30:51.372+09:00,user,KeyEvent,60:44:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,10,Changes
+2023-04-28T19:30:54.941+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,11,Changes
+2023-04-28T19:30:55.056+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,12,Changes
+2023-04-28T19:30:55.122+09:00,user,KeyEvent,34:222:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,12,Changes
+2023-04-28T19:30:55.709+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,13,Changes
+2023-04-28T19:30:56.127+09:00,user,KeyEvent,68:68:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,13,Changes
+2023-04-28T19:30:56.505+09:00,user,KeyEvent,101:69:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,14,Changes
+2023-04-28T19:30:57.290+09:00,user,KeyEvent,115:83:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,15,Changes
+2023-04-28T19:30:57.850+09:00,user,KeyEvent,116:84:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,16,Changes
+2023-04-28T19:30:59.274+09:00,user,KeyEvent,114:82:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,17,Changes
+2023-04-28T19:30:59.434+09:00,user,KeyEvent,117:85:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,18,Changes
+2023-04-28T19:30:59.624+09:00,user,KeyEvent,99:67:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,19,Changes
+2023-04-28T19:31:00.161+09:00,user,KeyEvent,116:84:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,20,Changes
+2023-04-28T19:31:00.551+09:00,user,KeyEvent,111:79:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,21,Changes
+2023-04-28T19:31:00.777+09:00,user,KeyEvent,114:82:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,22,Changes
+2023-04-28T19:31:01.794+09:00,user,Action,EditorRight,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,23,Changes
+2023-04-28T19:31:01.795+09:00,user,KeyEvent,65535:39:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,24,Changes
+2023-04-28T19:31:02.192+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,24,Changes
+2023-04-28T19:31:02.375+09:00,user,KeyEvent,65535:16:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,25,Changes
+2023-04-28T19:31:02.583+09:00,user,KeyEvent,60:44:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,25,Changes
+2023-04-28T19:31:03.051+09:00,user,KeyEvent,60:44:1,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,26,Changes
+2023-04-28T19:31:03.276+09:00,user,KeyEvent,32:32:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,27,Changes
+2023-04-28T19:31:03.422+09:00,user,KeyEvent,101:69:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,28,Changes
+2023-04-28T19:31:03.546+09:00,user,KeyEvent,110:78:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,29,Changes
+2023-04-28T19:31:03.726+09:00,user,KeyEvent,100:68:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,30,Changes
+2023-04-28T19:31:04.567+09:00,user,KeyEvent,108:76:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,31,Changes
+2023-04-28T19:31:04.747+09:00,user,KeyEvent,59:59:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,32,Changes
+2023-04-28T19:31:09.264+09:00,user,Action,Run,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,33,Changes
+2023-04-28T19:31:10.071+09:00,user,Execution,Run:'CMake Application: untitled':C:\Users\user\CLionProjects\untitled\cmake-build-debug\untitled.exe,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,33,Changes
+2023-04-28T19:31:49.019+09:00,user,Action,Run,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,33,Changes
+2023-04-28T19:31:49.671+09:00,user,Execution,Run:'CMake Application: untitled':C:\Users\user\CLionProjects\untitled\cmake-build-debug\untitled.exe,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,42,33,Changes
+2023-04-28T19:33:17.370+09:00,user,Action,EditorBackSpace,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:33:17.385+09:00,user,KeyEvent,8:8:0,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:33:18.632+09:00,user,Action,Run,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:33:19.358+09:00,user,Execution,Run:'CMake Application: untitled':C:\Users\user\CLionProjects\untitled\cmake-build-debug\untitled.exe,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:33:20.934+09:00,user,KeyEvent,65535:17:2,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:33:21.040+09:00,user,Action,$Undo,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
+2023-04-28T19:33:21.061+09:00,user,KeyEvent,26:90:2,untitled,Editor,C:/Users/user/Desktop/2학년 1학기/C++/8주차 실습/8-2 실습 064 - copy semantics/String.cpp,,41,18,Changes
